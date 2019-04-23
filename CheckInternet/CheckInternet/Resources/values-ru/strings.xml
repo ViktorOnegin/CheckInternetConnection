@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_name">Проверь интернет соединение</string>
+  <string name="connectivityTrue">соединение установлено</string>
+  <string name="connectivityFalse">нет соединения</string>
+</resources>

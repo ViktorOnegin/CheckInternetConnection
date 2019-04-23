@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_name">Kontrolli interneti</string>
+  <string name="connectivityTrue">internet on olemas</string>
+  <string name="connectivityFalse">internet puudub</string>
+</resources>

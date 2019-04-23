@@ -3321,9 +3321,6 @@ namespace CheckInternet
 			// aapt resource value: 0x7f0a0010
 			public const int abc_toolbar_collapse_description = 2131361808;
 			
-			// aapt resource value: 0x7f0a0028
-			public const int action_settings = 2131361832;
-			
 			// aapt resource value: 0x7f0a0027
 			public const int app_name = 2131361831;
 			
@@ -3335,6 +3332,12 @@ namespace CheckInternet
 			
 			// aapt resource value: 0x7f0a0020
 			public const int character_counter_pattern = 2131361824;
+			
+			// aapt resource value: 0x7f0a0029
+			public const int connectivityFalse = 2131361833;
+			
+			// aapt resource value: 0x7f0a0028
+			public const int connectivityTrue = 2131361832;
 			
 			// aapt resource value: 0x7f0a0021
 			public const int password_toggle_content_description = 2131361825;
